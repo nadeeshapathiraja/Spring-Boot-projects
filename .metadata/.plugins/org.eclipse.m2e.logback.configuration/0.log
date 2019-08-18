@@ -3581,3 +3581,208 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-08-17 21:32:31,360 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-08-17 21:32:31,362 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-08-17 21:32:31,362 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-17 21:43:04,898 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-17 22:14:49,321 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 22:14:49,350 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-17 22:14:49,366 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-17 22:14:49,369 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 22:14:49,370 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-17 22:51:08,476 [Worker-33: Launching project3 - Project3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 22:51:08,480 [Worker-33: Launching project3 - Project3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-17 22:51:08,482 [Worker-33: Launching project3 - Project3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-17 22:51:08,485 [Worker-33: Launching project3 - Project3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 22:51:08,485 [Worker-33: Launching project3 - Project3Application] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-17 23:33:47,251 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 23:33:47,320 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-17 23:33:47,322 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-17 23:33:47,324 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-17 23:33:47,324 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-18 08:10:15,180 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-18 09:51:06,688 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
+2019-08-18 09:51:06,743 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
+2019-08-18 09:51:06,768 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2019-08-18 09:51:06,792 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.12.4/maven-surefire-plugin-2.12.4.jar
+2019-08-18 09:51:06,806 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2019-08-18 09:51:06,822 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-2.4.jar
+2019-08-18 09:51:06,839 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-deploy-plugin/2.7/maven-deploy-plugin-2.7.jar
+2019-08-18 09:51:06,852 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2019-08-18 09:51:06,887 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2019-08-18 09:51:06,899 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rst.boot:project.demo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project.demo\pom.xml.
+2019-08-18 09:51:07,826 [Worker-25: Creating project "project.demo"] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.pom
+2019-08-18 09:51:09,391 [Worker-33: Auto share git projects] WARN  org.eclipse.jgit.util.FS - C:\Program Files\Git\mingw64\etc\.probe-008fe09f-9718-441b-af20-34ccd9d5993d
+java.nio.file.AccessDeniedException: C:\Program Files\Git\mingw64\etc\.probe-008fe09f-9718-441b-af20-34ccd9d5993d
+	at sun.nio.fs.WindowsException.translateToIOException(Unknown Source) ~[na:1.8.0_121]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[na:1.8.0_121]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source) ~[na:1.8.0_121]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(Unknown Source) ~[na:1.8.0_121]
+	at java.nio.file.Files.newByteChannel(Unknown Source) ~[na:1.8.0_121]
+	at java.nio.file.Files.createFile(Unknown Source) ~[na:1.8.0_121]
+	at org.eclipse.jgit.util.FS$FileStoreAttributeCache.<init>(FS.java:234) ~[org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.util.FS$FileStoreAttributeCache.getFsTimestampResolution(FS.java:211) ~[org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.util.FS.getFsTimerResolution(FS.java:321) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.internal.storage.file.FileSnapshot.<init>(FileSnapshot.java:186) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.internal.storage.file.FileSnapshot.save(FileSnapshot.java:122) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.storage.file.FileBasedConfig.load(FileBasedConfig.java:156) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.internal.storage.file.FileRepository.loadSystemConfig(FileRepository.java:245) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.internal.storage.file.FileRepository.<init>(FileRepository.java:203) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.storage.file.FileRepositoryBuilder.build(FileRepositoryBuilder.java:88) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.jgit.storage.file.FileRepositoryBuilder.create(FileRepositoryBuilder.java:108) [org.eclipse.jgit_5.4.0.201906121030-r.jar:5.4.0.201906121030-r]
+	at org.eclipse.egit.core.RepositoryCache.lookupRepository(RepositoryCache.java:58) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.map(GitProjectData.java:693) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.remapAll(GitProjectData.java:651) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.egit.core.project.GitProjectData.setRepositoryMappings(GitProjectData.java:465) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.egit.core.op.ConnectProviderOperation.connectProject(ConnectProviderOperation.java:153) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.egit.core.op.ConnectProviderOperation.execute(ConnectProviderOperation.java:111) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.egit.core.internal.job.JobUtil$1.run(JobUtil.java:55) [org.eclipse.egit.core_5.4.0.201906121030-r.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.400.v20190506-1457.jar:na]
+2019-08-18 09:51:34,779 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 09:51:34,783 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 09:51:34,800 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 09:51:34,803 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 09:51:34,804 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-18 09:53:02,793 [Worker-34: Creating project "springboot-demo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rst.boot:springboot-demo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot-demo\pom.xml.
+2019-08-18 09:55:33,792 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2019-08-18 09:56:36,768 [Worker-32: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2019-08-18 09:57:59,499 [Worker-32: Creating project "springboot"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: boot.spring:springboot:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot\pom.xml.
+2019-08-18 11:02:05,446 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-08-18 11:02:24,287 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newOne:project1:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project1\pom.xml.
+2019-08-18 11:02:31,989 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newOne:project2:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project2\pom.xml.
+2019-08-18 11:02:32,229 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newOne:project3:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project3\pom.xml.
+2019-08-18 11:02:32,332 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: boot.spring:springboot:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot\pom.xml.
+2019-08-18 11:02:34,313 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom
+2019-08-18 11:02:34,544 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom
+2019-08-18 11:02:34,764 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom
+2019-08-18 11:02:36,098 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom
+2019-08-18 11:02:36,609 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2019-08-18 11:02:36,941 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.1.2/maven-jar-plugin-3.1.2.pom
+2019-08-18 11:02:38,540 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2019-08-18 11:02:38,769 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2019-08-18 11:02:39,174 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/22/maven-shared-components-22.pom
+2019-08-18 11:02:39,417 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/22/maven-shared-components-22.pom
+2019-08-18 11:02:39,606 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom
+2019-08-18 11:02:40,061 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/27/maven-parent-27.pom
+2019-08-18 11:02:40,291 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+2019-08-18 11:02:40,535 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/17/apache-17.pom
+2019-08-18 11:02:40,769 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2019-08-18 11:02:41,051 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2019-08-18 11:02:41,275 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.pom
+2019-08-18 11:02:41,520 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.pom
+2019-08-18 11:02:41,735 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2019-08-18 11:02:41,942 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2019-08-18 11:02:42,137 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2019-08-18 11:02:42,343 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2019-08-18 11:02:42,610 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2019-08-18 11:02:42,997 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2019-08-18 11:02:43,195 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2019-08-18 11:02:43,535 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2019-08-18 11:02:43,731 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2019-08-18 11:02:43,975 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2019-08-18 11:02:44,210 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2019-08-18 11:02:44,700 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2019-08-18 11:02:44,954 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2019-08-18 11:02:45,176 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.pom
+2019-08-18 11:02:45,572 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2019-08-18 11:02:45,843 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.pom
+2019-08-18 11:02:46,050 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/33/maven-shared-components-33.pom
+2019-08-18 11:02:46,465 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/33/maven-shared-components-33.pom
+2019-08-18 11:02:46,853 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2019-08-18 11:02:47,120 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.pom
+2019-08-18 11:02:47,332 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom
+2019-08-18 11:02:47,587 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/5.1/plexus-5.1.pom
+2019-08-18 11:02:47,819 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2019-08-18 11:02:48,076 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.1.1/plexus-utils-3.1.1.pom
+2019-08-18 11:02:48,270 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2019-08-18 11:02:48,654 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.pom
+2019-08-18 11:02:48,853 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-08-18 11:02:49,097 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+2019-08-18 11:02:49,418 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2019-08-18 11:02:50,044 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+2019-08-18 11:02:50,375 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2019-08-18 11:02:50,620 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.pom
+2019-08-18 11:02:51,074 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2019-08-18 11:02:51,283 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2019-08-18 11:02:51,648 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2019-08-18 11:02:51,898 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.pom
+2019-08-18 11:02:52,132 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.pom
+2019-08-18 11:02:52,476 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.25/plexus-interpolation-1.25.pom
+2019-08-18 11:02:52,692 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+2019-08-18 11:02:52,969 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.pom
+2019-08-18 11:02:53,257 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2019-08-18 11:02:53,754 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2019-08-18 11:02:53,975 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2019-08-18 11:02:54,394 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2019-08-18 11:02:54,624 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.jar
+2019-08-18 11:02:56,136 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.jar
+2019-08-18 11:02:56,337 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2019-08-18 11:02:56,661 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2019-08-18 11:02:56,865 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2019-08-18 11:02:57,296 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.4.0/maven-archiver-3.4.0.jar
+2019-08-18 11:02:57,480 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2019-08-18 11:02:58,398 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.1.0/plexus-archiver-4.1.0.jar
+2019-08-18 11:02:58,624 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2019-08-18 11:02:58,934 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.1.1/plexus-io-3.1.1.jar
+2019-08-18 11:02:59,125 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2019-08-18 11:03:00,523 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.18/commons-compress-1.18.jar
+2019-08-18 11:03:00,891 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2019-08-18 11:03:01,586 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2019-08-18 11:03:02,097 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2019-08-18 11:03:02,649 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/tukaani/xz/1.8/xz-1.8.jar
+2019-08-18 11:03:02,834 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+2019-08-18 11:03:04,102 [Worker-3: Updating Maven Dependencies] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.2.0/plexus-utils-3.2.0.jar
+2019-08-18 11:03:23,020 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:03:23,025 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 11:03:23,081 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 11:03:23,084 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:03:23,084 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project1\src\test\resources
+2019-08-18 11:03:24,655 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:03:24,656 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 11:03:24,672 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 11:03:24,675 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:03:24,675 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project2\src\test\resources
+2019-08-18 11:03:25,435 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:03:25,436 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 11:03:25,449 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 11:03:25,451 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:03:25,451 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-18 11:06:56,332 [Worker-2: Creating project "springboot-demo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dts.boot:springboot-demo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot-demo\pom.xml.
+2019-08-18 11:07:14,098 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-18 11:07:15,677 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newOne:project1:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project1\pom.xml.
+2019-08-18 11:07:16,825 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newOne:project2:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project2\pom.xml.
+2019-08-18 11:07:17,065 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.newOne:project3:0.0.1-SNAPSHOT @ E:\J2EE Workspace\project3\pom.xml.
+2019-08-18 11:07:17,157 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dts.boot:springboot-demo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot-demo\pom.xml.
+2019-08-18 11:07:18,290 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1/src/main/java
+2019-08-18 11:07:18,290 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project1/src/main/resources
+2019-08-18 11:07:18,291 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project1/src/main/resources
+2019-08-18 11:07:18,292 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project1/src/test/java
+2019-08-18 11:07:18,871 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project2/src/main/java
+2019-08-18 11:07:18,872 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project2/src/main/resources
+2019-08-18 11:07:18,872 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project2/src/main/resources
+2019-08-18 11:07:18,873 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project2/src/test/java
+2019-08-18 11:07:19,063 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project3/src/main/java
+2019-08-18 11:07:19,063 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project3/src/main/resources
+2019-08-18 11:07:19,063 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /project3/src/main/resources
+2019-08-18 11:07:19,064 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project3/src/test/java
+2019-08-18 11:07:19,540 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-08-18 11:07:21,020 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:07:21,021 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 11:07:21,033 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 11:07:21,035 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:07:21,035 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project1\src\test\resources
+2019-08-18 11:07:22,348 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:07:22,348 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 11:07:22,349 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 11:07:22,351 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:07:22,352 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project2\src\test\resources
+2019-08-18 11:07:22,884 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:07:22,884 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-18 11:07:22,888 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-18 11:07:22,890 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-18 11:07:22,891 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\J2EE Workspace\project3\src\test\resources
+2019-08-18 11:07:34,229 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-08-18 11:07:39,017 [Worker-6: Launching springboot-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\J2EE Workspace\springboot-demo
+2019-08-18 11:07:39,017 [Worker-6: Launching springboot-demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B  -Dstyle.color=always
+2019-08-18 11:07:58,023 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-18 11:07:58,126 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dts.boot:springboot-demo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot-demo\pom.xml.
+2019-08-18 11:07:58,165 [Worker-12: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-08-18 11:10:15,703 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dts.boot1:springboot-demo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\springboot-demo\pom.xml.
+2019-08-18 11:11:30,438 [Worker-12: Creating project "projectDemo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: new2:projectDemo:0.0.1-SNAPSHOT @ E:\J2EE Workspace\projectDemo\pom.xml.
