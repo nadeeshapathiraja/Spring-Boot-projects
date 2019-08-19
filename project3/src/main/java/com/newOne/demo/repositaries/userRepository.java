@@ -6,4 +6,8 @@ import com.newOne.demo.domain.UserDTO;
 
 public interface userRepository extends JpaRepository<UserDTO, Integer> {
 
+	
+
+
+
 }
